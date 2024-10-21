@@ -1,5 +1,5 @@
 /*
-https://github.com/maizi20/zy/blob/main/202410162201.js
+https://github.com/maizi20/zy/blob/main/202410212201.js
 */
 var main=()=>console.log(
 `
